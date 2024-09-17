@@ -1,13 +1,18 @@
-body{
-    background-color: grey
+ body {
+    background-color: #4a4a4a;
 }
 
 h2{
-    background-color:yellow;
+    color:#FFD300;
 
 
     
 }
 h3{
-    background-color: #cadeed
+    color: #cadeed;
+}
+.cyberpunk{
+    background-color:#FFD300;
+}
+.ghost { background-color:#cadeed
 }
